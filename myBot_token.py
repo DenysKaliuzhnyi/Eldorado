@@ -1,0 +1,2 @@
+TOKEN_1 = '<TOKEN1>'
+TOKEN_2 = '<TOKEN2>'
